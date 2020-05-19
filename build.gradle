@@ -15,7 +15,7 @@ buildscript {
         legacy_support = "1.0.0"
         version_glide = "4.8.0"
         version_glide_comiler = "4.7.1"
-        version_recycleview = "1.1.0"
+        version_retrofit = "2.8.2"
         version_picasso = "2.71828"
     }
     repositories {

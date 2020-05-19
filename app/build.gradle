@@ -55,4 +55,8 @@ dependencies {
     // AndroidX Navigation Libraries
     implementation "androidx.navigation:navigation-fragment-ktx:$version_navigation"
     implementation "androidx.navigation:navigation-ui-ktx:$version_navigation"
+    //Retrofit 2 library
+    implementation "com.squareup.retrofit2:retrofit:$version_retrofit"
+    //Gson converter factory
+    implementation "com.squareup.retrofit2:converter-gson:$version_retrofit"
 }
